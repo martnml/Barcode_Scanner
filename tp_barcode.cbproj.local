@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/04/10 19:09:42.000.269,=C:\Users\Emil\Documents\Embarcadero\Studio\Projets\Unit1.cpp</Transaction>
+    <Transaction>2022/04/10 19:09:42.000.168,=C:\Users\Emil\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
+    <Transaction>2022/04/10 19:10:19.000.735,C:\Users\Emil\Documents\Embarcadero\Studio\Projets\bar_code.dfm=C:\Users\Emil\Documents\Embarcadero\Studio\Projets\Unit1.dfm</Transaction>
+    <Transaction>2022/04/10 19:10:19.000.735,C:\Users\Emil\Documents\Embarcadero\Studio\Projets\bar_code.h=C:\Users\Emil\Documents\Embarcadero\Studio\Projets\Unit1.h</Transaction>
+    <Transaction>2022/04/10 19:10:19.000.735,C:\Users\Emil\Documents\Embarcadero\Studio\Projets\bar_code.cpp=C:\Users\Emil\Documents\Embarcadero\Studio\Projets\Unit1.cpp</Transaction>
+    <Transaction>2022/04/10 19:10:37.000.740,C:\Users\Emil\Documents\Embarcadero\Studio\Projets\barcode.h=C:\Users\Emil\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
+    <Transaction>2022/04/10 19:10:50.000.652,C:\Users\Emil\Documents\Embarcadero\Studio\Projets\tp_barcode.cbproj=C:\Users\Emil\Documents\Embarcadero\Studio\Projets\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d7c053f-485e-4ecb-95de-60c13c5c7765" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Win32/Debug/bar_code.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Win32/Debug/barcode.pch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Win32/Debug/tp_barcode.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Win32/Debug/tp_barcode.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Win32/Debug/tp_barcode.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Win32/Debug/tp_barcode.tds" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bar_code.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bar_code.dfm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bar_code.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barcode images/barcode 1.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barcode images/barcode 2.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barcode images/barcode 3.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barcode images/barcode 4.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barcode images/barcode_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barcode images/bqrcode  2 clean.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barcode.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp_barcode.cbproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp_barcode.cbproj.local" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp_barcode.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp_barcode.res" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2ElPm0l9v5Id4oTeVDQuueFAYdv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "MTConfigurable"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d7c053f-485e-4ecb-95de-60c13c5c7765" name="Changes" comment="" />
+      <created>1663167360412</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663167360412</updated>
+    </task>
+    <servers />
+  </component>
+</project>
